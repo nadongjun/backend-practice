@@ -1,3 +1,3 @@
-# spring-practice
+# Backend-practice
 
-Spring boot를 공부하며 정리한 자료들
+Spring boot, Rust를 공부하며 정리한 자료들
