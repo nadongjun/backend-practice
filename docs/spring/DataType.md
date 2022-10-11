@@ -15,3 +15,4 @@
 ## VO
 - VO(Value Object)
 - `read-Only`, Getter만 있다.
+
