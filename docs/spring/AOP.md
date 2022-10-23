@@ -19,7 +19,7 @@ Aspect Oriented Programming
 
 ## 용어
 - Concern(관심사) : 서로 다른 클래스의 비슷한 기능 (Advice, Target으로 구분)
-  - Advice : 기능 (부가 기능), target에 동적으로 추가될 부가 기능(코드)
+  - Advice : 기능 (부가 기능), target에 동적으로 추가될 부가 기능(코드) / Logging, Transaction, Security..
   - Target : 클래스 (핵심 기능), advice 가 추가될 객체
 - Aspect : 유사한 흩어진 기능을 모은 것
 - Pointcut : 어디에 적용해야 하는 지 (A라는 클래스의 B 메서드)
