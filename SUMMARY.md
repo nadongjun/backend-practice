@@ -5,7 +5,7 @@
   - [Structure](docs/spring/Structure.md)
   - [IoC](docs/spring/IoC.md)
   - [DataType](docs/spring/DataType.md)
-  - [POJO](docs/spring/POJO.md
+  - [POJO](docs/spring/POJO.md)
   - [AOP](docs/spring/AOP.md)
   - [DesignPattern](docs/spring/DesignPattern.md)
 - Spring 개발환경
